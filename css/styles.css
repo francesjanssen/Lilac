@@ -5,20 +5,22 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: Dashiell Fine, sans-serif;
 	background-color: #fffcf8;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #cba4de;
+	font-family: Das
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #d9d9d9;
+	font-style: bold;
 }
 
 /* Effect on social media buttons */
